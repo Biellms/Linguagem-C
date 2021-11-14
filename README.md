@@ -5,8 +5,6 @@
   </div>
 <hr>
 
-<br>
-
 ### Códigos feitos por estudos sobre a linguagem, durante aulas de Algoritmos e Lógica de Programação, na faculdade de ADS pela FAM.
 
 <br>
